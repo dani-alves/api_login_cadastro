@@ -9,5 +9,5 @@ api possui duas rotas testadas e publicadas via postman:
 
 ![App Screenshot](<a href="https://ibb.co/nBQFLb5"><img src="https://i.ibb.co/MfPmCs3/print-api2.png" alt="print-api2" border="0"></a>)
 
-![App Screenshot](https://ibb.co/nBQFLb5)
+![App Screenshot](<a href="https://ibb.co/k6Xnq76"><img src="https://i.ibb.co/TqtXPfq/print-api1.png" alt="print-api1" border="0"></a>)
 
