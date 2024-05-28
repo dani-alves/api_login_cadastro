@@ -7,7 +7,7 @@ api possui duas rotas testadas e publicadas via postman:
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/k6Xnq76)
+![App Screenshot](<a href="https://ibb.co/nBQFLb5"><img src="https://i.ibb.co/MfPmCs3/print-api2.png" alt="print-api2" border="0"></a>)
 
 ![App Screenshot](https://ibb.co/nBQFLb5)
 
